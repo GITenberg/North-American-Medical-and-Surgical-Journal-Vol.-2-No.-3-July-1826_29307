@@ -12,7 +12,7 @@ creator:
   editors:
   - agent_name: Meigs, Charles D. (Charles Delucena)
     alias: Meigs, Charles Delucena
-    birthdate: &id001 1792
+    birthdate: 1792
     deathdate: 1869
     gutenberg_agent_id: '33831'
     url: http://www.gutenberg.org/2009/agents/33831
@@ -33,7 +33,7 @@ creator:
     gutenberg_agent_id: '33834'
     url: http://www.gutenberg.org/2009/agents/33834
   - agent_name: Bache, Franklin
-    birthdate: *id001
+    birthdate: 1792
     deathdate: 1864
     gutenberg_agent_id: '33830'
     url: http://www.gutenberg.org/2009/agents/33830
@@ -44,6 +44,8 @@ creator:
     gutenberg_agent_id: '33832'
     url: http://www.gutenberg.org/2009/agents/33832
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29307#North-American-Medical-and-Surgical-Journal-Vol.-2-No.-3-July-1826
 gutenberg_bookshelf: The North American Medical and Surgical Journal
 gutenberg_issued: '2009-07-04'
 gutenberg_type: Text
