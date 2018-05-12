@@ -1,0 +1,60 @@
+_repo: North-American-Medical-and-Surgical-Journal-Vol.-2-No.-3-July-1826_29307
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editors:
+  - agent_name: Meigs, Charles D. (Charles Delucena)
+    alias: Meigs, Charles Delucena
+    birthdate: &id001 1792
+    deathdate: 1869
+    gutenberg_agent_id: '33831'
+    url: http://www.gutenberg.org/2009/agents/33831
+  - agent_name: Hodge, Hugh L. (Hugh Lenox)
+    alias: Hodge, H. Lenox (Hugh Lenox)
+    birthdate: 1796
+    deathdate: 1873
+    gutenberg_agent_id: '33829'
+    url: http://www.gutenberg.org/2009/agents/33829
+  - agent_name: La Roche, R. (René)
+    aliases:
+    - Roche, René La
+    - LaRoche, R. (René)
+    - Roche, R. La (René)
+    - La Roche, R. (Rene)
+    birthdate: 1795
+    deathdate: 1872
+    gutenberg_agent_id: '33834'
+    url: http://www.gutenberg.org/2009/agents/33834
+  - agent_name: Bache, Franklin
+    birthdate: *id001
+    deathdate: 1864
+    gutenberg_agent_id: '33830'
+    url: http://www.gutenberg.org/2009/agents/33830
+  - agent_name: Coates, Benjamin Hornor
+    alias: Coates, B. H. (Benjamin Hornor)
+    birthdate: 1797
+    deathdate: 1881
+    gutenberg_agent_id: '33832'
+    url: http://www.gutenberg.org/2009/agents/33832
+description: ''
+gutenberg_bookshelf: The North American Medical and Surgical Journal
+gutenberg_issued: '2009-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medicine -- Periodicals'
+- !lcc 'R'
+title: North American Medical and Surgical Journal, Vol. 2, No. 3, July, 1826
+url: http://www.gutenberg.org/ebooks/29307
